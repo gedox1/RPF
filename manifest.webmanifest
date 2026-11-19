@@ -1,0 +1,9 @@
+{
+  "name": "RPF_MIS REMERA",
+  "short_name": "RPF_MIS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#123b70",
+  "description": "Membership information management system"
+}
